@@ -7,8 +7,7 @@ This repository contains the schematic and PCB design files for a classic **555 
 
 ### 3D PCB Render
 
-> **Note:** Replace the image below with your actual 3D render.
-> 
+![3D View of the PCB](https://insert-your-3d-image-link-here.com)
 
 ## Circuit Details
 
