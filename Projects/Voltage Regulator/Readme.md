@@ -5,7 +5,7 @@ This repository contains the schematic and PCB layout for a robust and compact 5
 
 ### 3D PCB Render
 
-![3D View of the PCB]()
+![3D View of the PCB](https://github.com/shereifDev/PCB-Design/blob/main/Projects/Voltage%20Regulator/Images/3D.png)
 
 
 ## Key Features
