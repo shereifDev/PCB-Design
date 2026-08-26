@@ -7,7 +7,7 @@ This repository contains the schematic and PCB design files for a classic **555 
 
 ### 3D PCB Render
 
-![3D View of the PCB](https://insert-your-3d-image-link-here.com)
+![3D View of the PCB](https://github.com/shereifDev/PCB-Design/blob/main/Projects/Astable%20timer%20555/Images/3D.png)
 
 ## Circuit Details
 
