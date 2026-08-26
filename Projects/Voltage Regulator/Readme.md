@@ -3,6 +3,11 @@
 ## Overview
 This repository contains the schematic and PCB layout for a robust and compact 5V linear voltage regulator module based on the **AMS1117-5.0**. Designed with proper thermal management and manufacturer-recommended decoupling, this board is ideal for powering microcontrollers, IoT devices, and other embedded systems.
 
+### 3D PCB Render
+
+![3D View of the PCB]()
+
+
 ## Key Features
 - **Stable 5V Output:** Reliable step-down conversion from a 6.5V-12V input source.
 - **Optimized Thermal Design:** Features a dedicated copper pour (GND plane) under the AMS1117 tab to maximize heat dissipation and prevent thermal shutdown.
